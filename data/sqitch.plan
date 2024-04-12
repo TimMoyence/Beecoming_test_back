@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=beecoming_test
+
+create 2024-04-09T12:45:13Z Tim <tim.moyence@gmail.com> # create db
+data 2024-04-09T12:45:37Z Tim <tim.moyence@gmail.com> # add data

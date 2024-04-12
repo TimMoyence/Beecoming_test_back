@@ -1,0 +1,11 @@
+### Post message
+POST http://localhost:3000/launch-message
+Content-Type: application/json
+
+{
+  "author": "Vincent van Gogh",
+  "oeuvre": "La Nuit étoilée"
+}
+
+### Get all cities
+GET http://localhost:3000/api/cities
