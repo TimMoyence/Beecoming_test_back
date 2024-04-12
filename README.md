@@ -15,7 +15,7 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 1. **Cloner le dépôt :**
 
    ```bash
-   git clone
+   git clone git@github.com:TimMoyence/Beecoming_test_back.git
    cd capitales
    ```
 
